@@ -3,8 +3,11 @@ Hi, I'm Souparnika 👋
 Aspiring Data Analyst
 
 📊 Power BI
+
 🗄 SQL
+
 🐍 Python
+
 📈 Excel
 
 I enjoy transforming raw data into actionable business insights through interactive dashboards and data analysis.
@@ -12,7 +15,9 @@ I enjoy transforming raw data into actionable business insights through interact
 Featured Projects
 
 📊 Online Retail Performance Dashboard
+
 🌱 Plant Morphology Metrics
+
 🍱 Excess Food Management System
 
 Currently Learning
